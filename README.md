@@ -24,20 +24,6 @@ Currently exploring design systems, frontend development, automation, and creati
 
 ---
 
-![Figma]
-![Photoshop]
-![Illustrator]
-![Canva]
-![HTML5]
-![CSS3]
-![JavaScript]
-![Git]
-![GitHub]
-![Cloudflare]
-![Firebase]
-
----
-
 ### ✨ Why I Build
 
 I started creating because I loved turning ideas into something real.
